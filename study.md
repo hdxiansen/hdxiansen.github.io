@@ -7,7 +7,7 @@
 --- seperate line
 [](hyperlink) 
 >   vertical line
-<small><arrow/small> n
+<small>narrow</small>
 
 <table>
   <tr align="center">
@@ -22,6 +22,7 @@
     <td>1<br /></td>
     <td></td>
   </tr>
+  
   <tr>
   	<td align="center"></td>
     <td colspan="2" align="center"></td>
