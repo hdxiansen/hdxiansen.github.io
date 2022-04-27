@@ -2,7 +2,8 @@
 ## titilecase
 ### titlecasecase
 ** **bold
-+  point
++  point(full)
+-  point(null)
 --- seperate line
 []() hyperlink
 >   vertical line
@@ -30,3 +31,11 @@
 </table> 
 the sample of table
 
+'''java
+code stock
+'''
+
+<u>xiahuaxian</u>
+
+` ` yellow font
+T T blue font
